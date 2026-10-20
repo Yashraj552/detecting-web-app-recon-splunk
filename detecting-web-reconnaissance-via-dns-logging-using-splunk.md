@@ -1,5 +1,6 @@
 # Detecting Web Application Reconnaissance via DNS Logging using Splunk
-<img width="930" height="572" alt="image" src="https://github.com/user-attachments/assets/a9f874d7-ad9a-4241-9993-ef97e196714a" />
+<img width="706" height="433" alt="image" src="https://github.com/user-attachments/assets/5c66bc7e-89e7-49ec-891b-6078ee7e00d2" />
+
 
 ## Introduction
 
@@ -10,7 +11,8 @@ DNS (Domain Name System) logs play a vital role in tracking network activity and
 In this lab experiment, we will ingest sample DNS logs into Splunk and run practical search queries to track domain queries, spot subdomain scanning, and uncover suspicious network traffic related to web applications.
 
 ## Prerequisites
-<img width="520" height="320" alt="image" src="https://github.com/user-attachments/assets/25c13433-22b3-4b57-aa1c-04c263d23a21" />
+<img width="1024" height="738" alt="image" src="https://github.com/user-attachments/assets/9f8d85d7-be1c-48fd-8467-5b0cc8662bce" />
+
 
 Before analyzing DNS logs in Splunk, ensure the following:
 
